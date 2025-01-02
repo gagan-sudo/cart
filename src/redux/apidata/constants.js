@@ -1,0 +1,8 @@
+export const  GET_DATA ='GET_DATA'
+export const  SET_DATA ='SET_DATA'
+export const  GET_DATA_BY_CALL = 'GET_DATA_BY_CALL'
+export const  SET_DATA_BY_CALL = 'SET_DATA_BY_CALL'
+export const  GET_DATA_BY_FORK = 'GET_DATA_BY_FORK'
+export const  SET_DATA_BY_FORK = 'SET_DATA_BY_FORK'
+export const  GET_INTERNAL_STATE = 'GET_INTERNAL_STATE'
+export const HELLO = 'HELLO'
